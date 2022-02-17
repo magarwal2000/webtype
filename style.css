@@ -1,0 +1,39 @@
+/**{
+  border: 1px solid;
+}*/
+*{
+  margin:0;
+  box-sizing: border-box;
+}
+body{
+  font-family: gimlet-display, serif;
+
+font-weight: 400;
+
+font-style: normal;
+}
+h1{
+  color:rgb(0 0 255);
+  border: 1px solid;
+  padding: 20px;
+  font-weight: 400;
+  font-style: normal;
+}
+section{
+  color: red;
+  margin-bottom: 1em;
+}
+/*
+EVENT
+*/
+.event{
+  border:3px dotted;
+  padding:30px;
+  width:300px;
+  box-sizing: border-box;
+  margin:20px;
+  display:inline-block;
+}
+event-description{
+  color: green;
+}
