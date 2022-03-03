@@ -1,7 +1,6 @@
 *{
   background-color: #fff7e6;
   margin:10px;
-  box-sizing: border-box;
 }
 p{
   text-align: left;
@@ -11,10 +10,11 @@ p{
   width: 45%;
 }
 .para2{
+  position: fixed;
 }
 
 .bgimages{
+  display: block;
+  margin-right: auto;
   opacity: 50%;
-  width:50%;
-  height: 50%:
 }
