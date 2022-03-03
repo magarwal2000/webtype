@@ -2,6 +2,10 @@
   background-color: #fff7e6;
   margin:10px;
 }
+h1{
+  font-family: 'Laila', sans-serif;
+  font-size: 50px;
+}
 p{
   text-align: left;
   font-family: 'Rajdhani', sans-serif;
@@ -18,4 +22,10 @@ p{
   display: block;
   margin-right: auto;
   opacity: 0.5;
+}
+
+.anatomy{
+  positive: relative;
+  left: 50 px;
+  filter: drop-shadow(30px 10px 4px #4444dd);
 }
