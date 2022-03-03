@@ -14,7 +14,8 @@ p{
 }
 
 .bgimages{
-  display: block;
-  margin-right: auto;
+   float: right;
+/*  display: block;
+  margin-right: auto;*\
   opacity: 50%;
 }
