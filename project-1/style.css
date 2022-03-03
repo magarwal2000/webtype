@@ -1,3 +1,20 @@
+*{
+  background-color: #fff7e6;
+  margin:10px;
+  box-sizing: border-box;
+}
 p{
   text-align: left;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 20px;
+  position: relative;
+  width: 45%;
+}
+.para2{
+}
+
+.bgimages{
+  opacity: 50%;
+  width:50%;
+  height: 50%:
 }
