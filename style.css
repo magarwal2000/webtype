@@ -6,22 +6,31 @@
   box-sizing: border-box;
 }
 body{
-  font-family: gimlet-display, serif;
+  background-color: #0C080A;
+  padding-left: 10px;
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+  color: #E0FF80;
 
 font-weight: 400;
 
 font-style: normal;
 }
 h1{
-  color:rgb(0 0 255);
-  border: 1px solid;
+  font-family: 'Monoton', cursive;
+  font-size: 100px;
+  color:#22181C;
   padding: 20px;
   font-weight: 400;
   font-style: normal;
+  color: #E0FF80;
 }
 section{
   color: red;
   margin-bottom: 1em;
+}
+a {
+  color: hotpink;
 }
 /*
 EVENT
