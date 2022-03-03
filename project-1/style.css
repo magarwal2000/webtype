@@ -18,7 +18,6 @@ p{
 }
 
 .bgimages{
-   float: right
   display: block;
   margin-right: auto;
   opacity: 0.5;
@@ -27,5 +26,6 @@ p{
 .anatomy{
   positive: relative;
   left: 50 px;
+  transform: rotate(20deg);
   filter: drop-shadow(30px 10px 4px #4444dd);
 }
